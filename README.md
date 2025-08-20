@@ -1,5 +1,3 @@
-Here’s a clear and professional README.md file for your project Railway Management System using MySQL and Java Swing.
-
 🚆 Railway Management System
 
 📌 Overview
